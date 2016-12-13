@@ -1,0 +1,99 @@
+html {
+    height: 100%;
+    color: #000;
+    background: #fff;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    background-color: #5bb5c7;
+}
+
+header {
+    display: block;
+    border-bottom: 1px #fff solid;
+}
+
+h2 {
+    font-weight: bolder;
+    font-size: 36px;
+}
+
+.content {
+    margin-top: 50px;
+}
+
+footer {
+    margin-top: 30px;
+    display: block;
+    background-color: #0E576C;
+}
+
+footer p {
+    font-size: 14px;
+    line-height: 22px;
+}
+
+a, a:hover, a:visited, a:link {
+    text-decoration: none;
+    color: #fff;
+}
+
+.textright {
+    text-align: right;
+}
+
+.iphonebg {
+    background: url(../img/iphone-body.png);
+    width: 279px;
+    height: 484px;
+}
+
+.iphonebg img {
+    display: block;
+    position: relative;
+    top: 66px;
+    left: 47px;
+    width: 176px;
+    height: 314px;
+}
+
+form {
+    margin-top: 40px;
+}
+
+form input.text {
+    border-style: none;
+    background-color: #fff;
+    color: #0e576c;
+    border-radius: 0px;
+
+    font-size: 16px;
+    line-height: 16px;
+    height: 48px;
+    padding: 0 16px;
+
+    border: 0px solid #666;
+    margin: 0;
+    position: relative;
+    top: 1px;
+}
+
+form input.submit {
+    border-radius: 0px;
+    background-color: #f7941d;
+    background: linear-gradient(#eda200, #ed900d);
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+    border-width: 0px;
+    padding: 0;
+
+    width: 150px;
+    height: 48px;
+}

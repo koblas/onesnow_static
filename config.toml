@@ -1,0 +1,13 @@
+baseurl = "https://onesnow.com/"
+languageCode = "en-us"
+title = "OneSnow App"
+theme = "appland"
+
+[Params.App]
+    AppName = "OneSnow"
+    Developer = "David Koblas"
+    Contact = "privacy@onesnow.com"
+
+[Params.GForm]
+    url = "https://docs.google.com/a/koblas.com/forms/d/e/1FAIpQLSemC7wwfPRFQrWA72UhM8rv_ru8ikGh2R25E8s3bz3Xvn8Jvg/formResponse"
+    field = "entry.2015373244"
