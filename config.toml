@@ -2,6 +2,8 @@ baseurl = "https://onesnow.com/"
 languageCode = "en-us"
 title = "OneSnow App"
 theme = "appland"
+googleAnalytics = "UA-90556758-1"
+enableRobotsTXT= true
 
 [Params.App]
     AppName = "OneSnow"
