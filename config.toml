@@ -13,3 +13,8 @@ enableRobotsTXT= true
 [Params.GForm]
     url = "https://docs.google.com/a/koblas.com/forms/d/e/1FAIpQLSemC7wwfPRFQrWA72UhM8rv_ru8ikGh2R25E8s3bz3Xvn8Jvg/formResponse"
     field = "entry.2015373244"
+
+[sitemap]
+    changefreq = "daily"
+    priority = 0.5
+    filename = "sitemap.xml"

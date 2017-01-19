@@ -1,3 +1,7 @@
+---
+sitemap:
+    changefreq : "daily"
+---
 ## Get your schedule now
 
 OneSnow is an app that makes it easier to get your Vail Resorts instructor schedule. 
